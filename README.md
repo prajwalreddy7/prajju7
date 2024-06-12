@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajju7
+- 👋 Hi, 
 - 👀 I’m interested in Embedded System Development, Circuit Design, Web Development and Programming 
 - 🌱 I’m currently learning Digital Communications and working on competitive coding 
 - 💞️ I’m looking to collaborate on Electronic or programming enthusiasts working on exciting projects
